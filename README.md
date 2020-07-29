@@ -2,4 +2,4 @@
 
 You are at the homepage of Chinmay Goyal
 
-[Resume](https://jekyllrb.com/)
+[Resume](https://chinmaygoyal.github.io/Resume.pdf)
